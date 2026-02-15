@@ -2,4 +2,6 @@ CASA BASE
 Sala: Vacía
 Cocina: Vacía
 Habitación: {Cama, Mesa, Tv, Ventilador, Pc}
+Cocina: {Meson, Nevera, Licuadora, Estufa}
+Habitación: Vacía
 Jardín: Vacío
