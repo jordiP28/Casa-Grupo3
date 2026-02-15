@@ -1,5 +1,5 @@
 CASA BASE
 Sala: Vacía
 Cocina: Vacía
-Habitación: {Cama, Mesa, Tv, Ventilador}
+Habitación: {Cama, Mesa, Tv, Ventilador, Pc}
 Jardín: Vacío
