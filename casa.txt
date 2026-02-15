@@ -1,5 +1,5 @@
 CASA BASE
-Sala: Vacía
-Cocina: Vacía
-Habitación: Vacía
-Jardín: Vacío
+Sala: Vacía.
+Cocina: Vacía.
+Habitación: Vacía.
+Jardín: Vacío.
