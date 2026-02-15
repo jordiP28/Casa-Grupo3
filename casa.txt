@@ -2,4 +2,4 @@ CASA BASE
 Sala: {Televisor, muebles, mesa de centro, modem, play 5, cobija, sofa cama}
 Habitación: {Cama, Mesa, Tv, Ventilador, Pc}
 Cocina: {Meson, Nevera, Licuadora, Estufa}
-Jardín: Vacío
+Jardín: {Regadera, Tijeras, Gnomo, Grama}
