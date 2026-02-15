@@ -1,5 +1,5 @@
 CASA BASE
-Sala: {Televisor, muebles, mesa de centro, modem, play 5, puff}
-Cocina: Vacía
-Habitación: {Cama, Mesa, Tv, Ventilador}
+Sala: Vacía
+Cocina: {Meson, Nevera, Licuadora, Estufa}
+Habitación: Vacía
 Jardín: Vacío
