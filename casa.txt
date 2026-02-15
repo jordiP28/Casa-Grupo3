@@ -1,10 +1,7 @@
 CASA BASE
 Sala: {Televisor, muebles, mesa de centro, modem, play 5, cobija, sofa cama}
 Sala: Vacía
-<<<<<<< HEAD
-=======
 Habitación: {Cama, Mesa, Tv, Ventilador, Pc}
 Cocina: {Meson, Nevera, Licuadora, Estufa}
->>>>>>> 0122d6efe0de7ff9287f678516052c46d34768a8
 Habitación: Vacía
 Jardín: Vacío
